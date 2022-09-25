@@ -1,0 +1,4 @@
+rootProject.name = "Coursework"
+include ':FitnessView'
+include ':FitnessBusinessLogic'
+include ':FitnessDatabaseImplement'

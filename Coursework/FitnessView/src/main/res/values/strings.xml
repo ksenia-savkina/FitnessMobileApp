@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">YourFit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="textViewLogin">Логин</string>
+    <string name="textViewPassword">Пароль</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="buttonCancel">Отмена</string>
+    <string name="InvalidLogin">Неверный логин/пароль</string>
+    <string name="EmptyEditTextLogin">Заполните логин</string>
+    <string name="EmptyEditTextPassword">Заполните пароль</string>
+    <string name="buttonAttendedClasses">Посещенные занятия</string>
+    <string name="buttonUpcomingClasses">Предстоящие занятия</string>
+    <string name="buttonSignUpC">Записаться на занятие</string>
+    <string name="classTitle">Групповое занятие</string>
+    <string name="SuccessfulSigned">Вы записаны на занятие!</string>
+    <string name="availableClasses">Доступные занятия</string>
+    <string name="attendedClasses">Посещенные занятия</string>
+    <string name="upcomingClasses">Предстоящие занятия</string>
+    <string name="profile">Профиль</string>
+    <string name="buttonEdit">Редактировать</string>
+    <string name="buttonSignUpTest">Записаться на тест</string>
+    <string name="SuccessfulSignedTest">Вы отправили заявку на тест! Вскоре с вами свяжутся!</string>
+    <string name="testTitle">Результат теста</string>
+    <string name="textViewF_Name">Фамилия</string>
+    <string name="textViewL_Name">Имя</string>
+    <string name="textViewPhoneNumber">Номер телефона</string>
+    <string name="buttonSave">Сохранить</string>
+    <string name="textViewBirthdate">Дата рождения</string>
+    <string name="textViewTestRequest">Заявка на тест</string>
+    <string name="EmptyEditTextF_Name">Заполните фамилию</string>
+    <string name="EmptyEditTextL_Name">Заполните имя</string>
+    <string name="EmptyEditTextPhone">Заполните номер телефона</string>
+    <string name="EmptyEditDate">Заполните дату</string>
+    <string name="SuccessfulAdding">Сохранение прошло успешно</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_classes">Занятия</string>
+
+
+</resources>
